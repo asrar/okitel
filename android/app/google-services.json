@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "631345923262",
+    "project_id": "okitel-dd132",
+    "storage_bucket": "okitel-dd132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631345923262:android:f4acf4d017029c3ecc8aef",
+        "android_client_info": {
+          "package_name": "com.okitel.okitel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631345923262-mf5eaknbkql9pee25g5shnsj1gnrfo9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.okitel.okitel",
+            "certificate_hash": "2840c1b4e07e547a439652ad4a2c479465b238f3"
+          }
+        },
+        {
+          "client_id": "631345923262-6334mckv385f5ivajfk8dbji77ngaf2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPtDcHeqN_HhQ5zYbbwlKdkvNvwlaEtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631345923262-6334mckv385f5ivajfk8dbji77ngaf2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631345923262-2c6sfg5h912kev3gn9tcejm079i539pa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.okitel.okitel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

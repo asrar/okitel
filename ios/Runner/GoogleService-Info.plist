@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>631345923262-2c6sfg5h912kev3gn9tcejm079i539pa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.631345923262-2c6sfg5h912kev3gn9tcejm079i539pa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbdRJu8K8xwn0iu_iKEccID8EQqwLU6X4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>631345923262</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.okitel.okitel</string>
+	<key>PROJECT_ID</key>
+	<string>okitel-dd132</string>
+	<key>STORAGE_BUCKET</key>
+	<string>okitel-dd132.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:631345923262:ios:5f812e641f30b9c6cc8aef</string>
+</dict>
+</plist>
